@@ -1,4 +1,4 @@
-# Parallel Matrix Operation Application
+# Parallel Matrix Operations Application
 
 ## Introduction & Problem
 
